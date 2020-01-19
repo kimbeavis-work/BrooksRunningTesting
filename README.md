@@ -1,8 +1,8 @@
 # Overview
-##Test Description
+## Test Description
 Search for products on Brooks Running website using search box , then Add a product to cart.
 
-##Test environment
+## Test environment
 - Selenium webdriver using Python 3
 - Test is running on Chrome using Chrome Webdriver.
 - Testing desktop version of the website 1440x1080 size
